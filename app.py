@@ -1,8 +1,3 @@
-"""
-app.py — Streamlit ChatGPT-style interface for NLP-to-API translation.
-Fine-tuned FLAN-T5-base on Apple M1 (MPS backend) with float32.
-Multi-turn slot filling via st.session_state.
-"""
 
 import re
 import torch

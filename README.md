@@ -1,4 +1,4 @@
-# NLP-to-API Command Translator ⚡
+# NLP-to-API Command Translator⚡
 
 A high-fidelity system that translates natural language commands (e.g., "Email Priya about the report") into structured JSON API payloads. This project features a fine-tuned transformer model and a custom multi-turn slot-filling interface.
 

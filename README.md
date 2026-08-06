@@ -289,4 +289,4 @@ Vite is trying to proxy `/api` but nothing's listening. Start the backend with `
 First inference takes longer because the model warms up and PyTorch JIT-compiles kernels. Subsequent calls are 200–500 ms on Apple Silicon (MPS) and 50–150 ms on CUDA.
 
 **`Cannot read property 'createRoot' of undefined`**
-You're probably on an old Node version. Vite 5 needs Node ≥ 18.
+You're probably on an old Node version. Vite 5 needs Node ≥ 18
